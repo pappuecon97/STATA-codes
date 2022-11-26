@@ -1,0 +1,16 @@
+	(1)
+VARIABLES	exp_food
+	
+fem	161.7***
+	(2.401)
+male	184.4***
+	(2.459)
+hh_type	27.30***
+	(7.947)
+Constant	101.4***
+	(8.642)
+	
+Observations	45,761
+R-squared	0.210
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

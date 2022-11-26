@@ -1,0 +1,10 @@
+Hello everyone, 
+Please have a look at the attached files. you will have to do the following. Treatment status is provided in a separate file.
+
+1. Create a panel data household level. The required variables in that data are
+Treatment status, Number of household member. Highest year of education of the household members, Household income, respondent's education, respondent's age, respondent's marital status, male ratio(total male/total household member), female ratio, and adult ratio, treatment_status
+2. Create bar plot showing treatment control disaggregation by baseline and endline. 
+3. run a regression where income is the dependent variable and control for treatment, household baseline income and male_ratio
+2. Create another panel data household member level. In that dataset, there should be a respondent line no, name, age, gender, marital status, 
+
+Best of luck

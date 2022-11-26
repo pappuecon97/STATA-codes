@@ -1,0 +1,31 @@
+Table 1: Regression of income and its factors			
+		(1)	(2)
+		Model 1	Model 2
+VARIABLES	LABELS	OLS	FE
+			
+treatment	treatment	3,757.452	
+		(5,448.43)	
+baseline_inc	baseline_inc	0.806***	-0.060
+		(0.07)	(0.14)
+total_mem_19	total_mem_19	-1,468.713	
+		(3,266.25)	
+male_mem_19	male_mem_19	3,608.367	
+		(7,885.54)	
+male_ratio	male_ratio	-20,524.532	
+		(27,812.15)	
+o.treatment	treatment = o,		-
+			
+o.total_mem_19	total_mem_19 = o,		-
+			
+o.male_mem_19	male_mem_19 = o,		-
+			
+o.male_ratio	male_ratio = o,		-
+			
+Constant	Constant	42,881.796***	44,705.493***
+		(10,694.93)	(3,277.25)
+			
+Observations		1,405	1,405
+R-squared			0.000
+Number of idno		837	837
+Standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

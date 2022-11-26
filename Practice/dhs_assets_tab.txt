@@ -1,0 +1,15 @@
+Table 1: Summary statistics of assets by household head gender					
+		(1)	(2)	(3)	(4)
+		hh_type 0		hh_type 1	
+VARIABLES	LABELS	mean	sd	mean	sd
+					
+hv246b	owns cows/bulls/calfs	0.0869	1.361	0.155	2.752
+hv246c	owns horses/ donkeys/ mules	0	0	0.00136	0.0902
+hv246d	owns goats	0.473	1.624	0.793	2.736
+hv246e	owns sheep	0.280	1.330	0.427	1.924
+hv246f	owns chickens/geese/ducks	4.027	6.614	4.115	7.404
+hv246g	owns pigs	0.0299	0.624	0.0280	0.684
+hv246h	owns rabbits	0	0	0.00384	0.142
+hv246i	owns rodents	0.00271	0.116	0.0158	0.909
+hv246j	owns birds for sale	0.0109	0.228	0.0325	0.709
+					

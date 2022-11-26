@@ -1,0 +1,29 @@
+Regression of Price and its factors				
+		(1)	(2)	(3)
+		Model 1	Model 2	
+VARIABLES	LABELS	OLS	Robust	se
+				
+mpg	Mileage (mpg)	10.719	10.719	76.61
+		(72.19)		
+headroom	Headroom (in.)	-691.656*	-691.656*	290.68
+		(384.73)		
+trunk	Trunk space (cu. ft.)	-8.363	-8.363	82.25
+		(89.87)		
+weight	Weight (lbs.)	2.657***	2.657**	0.94
+		(0.89)		
+displacement	Displacement (cu. in.)	11.641*	11.641*	5.34
+		(6.10)		
+foreign	Car origin	3,943.333***	3,943.333**	694.65
+		(681.69)		
+price	Price		.	.
+Constant	Constant	-3,368.253	-3,368.253	3,455.06
+		(3,396.82)		
+				
+Observations		74	74	
+Adjusted R-squared		0.510		
+F-Stat		13.65		
+Prob > F		4.68e-10		
+Degree of Freedom		67		
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
+Price is the dependent variable.				
